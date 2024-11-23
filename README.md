@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/mrcl29/mrcl29/output/snake.svg](https://github.com/mrcl29/mrcl/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
+<img src="https://github.com/mrcl29/mrcl/tree/999d5a212491f78777c443245a5ad4625045d75b/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
