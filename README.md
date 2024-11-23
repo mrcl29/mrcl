@@ -37,5 +37,6 @@
 
 <hr style="border: 2px solid white;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcl29" alt="mrcl29" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcl29&theme=radical" alt="mrcl29" /></a> </p>
+
 
