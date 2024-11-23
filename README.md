@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm MARC</h1>
 <h3 align="center">An Informatic Engineering Student from Mallorca, Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcl29&label=Profile%20views&color=0e75b6&style=flat" alt="mrcl29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcl29" alt="mrcl29" /></a> </p>
-
-<hr style="border: 2px solid white;">
-
 - 📫 How to reach me **m.llobera@outlook.com**
 
 - 📄 Know about my experiences [https://portfolio-marclloberavillalonga.netlify.app](https://portfolio-marclloberavillalonga.netlify.app)
@@ -31,4 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcl29&show_icons=true&locale=en" alt="mrcl29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcl29&" alt="mrcl29" /></p>
+
+<hr style="border: 2px solid white;">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcl29&label=Profile%20views&color=0e75b6&style=flat" alt="mrcl29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcl29" alt="mrcl29" /></a> </p>
 
